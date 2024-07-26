@@ -2,8 +2,8 @@
 
 .texto{
    
-    font-size: 50px;
-    padding-top: 140px;
+    font-size: 34px;
+    padding-top: 95px;
     text-align: justify;
     color: rgb(255, 255, 255);
 }
@@ -30,9 +30,140 @@ background-repeat: no-repeat;
 
 
     height: 386px;
-    width: 600px;
+    width: 500px;
     background-image: url("circuitoelectrico2.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.imagen1ing{
+
+    height: 187px;
+    width: 300px;
+    background-image: url("img.ingles1.png");
+    float: half;
+    background-repeat: no-repeat;
+
+}
+
+.ingimagen2{
+
+    height: 200px;
+    width: 350px;
+    background-image: url("anorexia-nerviosa.png");
+    float: half;
+    background-repeat: no-repeat;
+
+}
+.imagen3ing{
+
+    height: 200px;
+    width: 350px;
+    background-image: url("bulimia.png");
+    float: half;
+    background-repeat: no-repeat;
+
+}
+ 
+.imagen4ing{
+
+    height: 200px;
+    width: 350px;
+    background-image: url("habitosalu1.png");
+    float: half;
     background-repeat: no-repeat;
 
 
 }
+ 
+.imagen5ing{
+
+    height: 200px;
+    width: 350px;
+    background-image: url("animo.png");
+    float: half;
+    background-repeat: no-repeat;
+
+}
+
+.imagen6ing{
+
+    height: 200px;
+    width: 350px;
+    background-image: url("ejercicio.png");
+    float: half;
+    background-repeat: no-repeat;
+
+}
+ 
+.imagen7ing{
+
+    height: 200px;
+    width: 350px;
+    background-image: url("horaadecuada.png");
+    float: half;
+    background-repeat: no-repeat;
+
+}
+
+.imagen8ing{
+
+    height: 200px;
+    width: 350px;
+    background-image: url("desayuno.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+}
+
+.imagen9ing{
+
+    height: 200px;
+    width: 350px;
+    background-image: url("soledad.png");
+    float: half;
+    background-repeat: no-repeat;
+     
+}
+
+.imagen10ing{
+height: 200px;
+    width: 350px;
+    background-image: url("comidachatarra.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+}
+
+.imagen11ing{
+
+    height: 200px;
+    width: 350px;
+    background-image: url("estres.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+}
+
+.imagen12{
+
+    height: 350px;
+    width: 350px;
+    background-image: url("dostor.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+}   
+
+.imagen13ing{
+
+    height: 350px;
+    width: 350px;
+    background-image: url("sal.png");
+    float: half;
+    background-repeat: no-repeat;  
+}
+
+
+
+
