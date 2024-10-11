@@ -7,15 +7,23 @@
     text-align: justify;
     color: rgb(255, 255, 255);
 }
+
+
+
 .principal{
    display: flex;
      
 }
+
+
+
 body{
-    background-image: url("foto2.png");
+    background-image: url("fo.png");
     
 
 }
+
+
 .imagen2{
 
 height: 286px;
@@ -283,14 +291,6 @@ height: 200px;
    
     
 }
-
-
-
-
-
-
-
-
 
 
 
