@@ -186,7 +186,6 @@ height: 200px;
 }
  
 
-
 .excel2 {
 
     height: 400px;
@@ -199,12 +198,91 @@ height: 200px;
 }
 
 
+.imagenin {  
 
 
+    height: 430px;
+    width: 300px;
+    background-image: url("imagenin.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
 
 
+.paz{  
 
 
+    height: 350px;
+    width: 200px;
+    background-image: url("paz.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
+
+.escuchar{  
+
+
+    height: 450px;
+    width: 300px;
+    background-image: url("escuchar.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
+
+.deacuerdo{  
+
+
+    height: 510px;
+    width: 400px;
+    background-image: url("deacuerdo.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
+
+.violencia{  
+
+
+    height: 510px;
+    width: 400px;
+    background-image: url("violencia.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
+
+.identidad{  
+
+
+    height: 510px;
+    width: 400px;
+    background-image: url("identidad.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
+
+
+.estereotipos{  
+
+
+    height: 510px;
+    width: 400px;
+    background-image: url("estereotipos.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
 
 
 
