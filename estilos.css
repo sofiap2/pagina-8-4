@@ -292,7 +292,41 @@ height: 200px;
     
 }
 
+.estereotipos{  
 
+
+    height: 510px;
+    width: 400px;
+    background-image: url("estereotipos.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
+
+
+.dormirs{  
+
+
+    height: 750px;
+    width: 750px;
+    background-image: url("dormirs.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+}
+
+.dormirf{  
+
+
+    height: 750px;
+    width: 750px;
+    background-image: url("dormirf.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
 
 
 
